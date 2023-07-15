@@ -23,7 +23,7 @@ email: d.bindloss+blog@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A personal blog website for me. Here you'll find tutorials, guides & just
   general information about programming, gaming and more.
-baseurl: "/blog/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://davidbindloss.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: davidb
 github_username:  davidbindloss
